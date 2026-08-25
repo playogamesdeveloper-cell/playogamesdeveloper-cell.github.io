@@ -573,7 +573,7 @@ bigo.sg, 1091182349, reseller
 bigo.sg, 880, direct
 brightcom.com, 29559, reseller
 buzzoola.com, 17427, reseller
-buzzoola.com/ru/, 1091182349, direct
+buzzoola.com, 1091182349, direct
 byyd.me, 1091182349, direct
 chocolateplatform.com, 14630, reseller
 contextweb.com, 563521, reseller
@@ -702,7 +702,7 @@ video.unrulymedia.com, 3880497124, reseller
 video.unrulymedia.com, 906352066, reseller
 vidoomy.com, 9148331, reseller
 visiblemeasures.com, 1004, reseller
-vk_eu.rtb.rtblab.net, 1091182349, direct
+vk-eu.rtb.rtblab.net, 1091182349, direct
 webeyemob.com, 80638, direct
 xapads.com, 144307, reseller
 yabbi.me, 675d9254-4032-47ed-9074-b6ef4dbab522, direct
